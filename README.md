@@ -3,6 +3,9 @@
 Currently, **OKX Wallet** can generate QR codes that include the main chain, token type, and amount — for example:
 bnb chain:0xafeb9b9df9490df5b84f52e2cd6f16a52ac9f1ee?token=0x319558c8ad708dc42f45ab70eada4750d6c942d7&amount=1000
 
+<p align="center">
+  <img src="./qrcode.png" alt="QR Code Example" width="300">
+</p>
 
 However, the wallet **cannot currently recognize or process** this QR format when scanned.  
 This means a format that is already clear, lightweight, and developer-friendly remains **underutilized**.
